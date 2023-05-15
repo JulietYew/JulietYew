@@ -26,7 +26,7 @@ C++.
 - 👯 I’m looking to collaborate on really awesome projects.
 - 🤔 I’m looking for help with contributing to RESTFUL API based applications.
 - 💬 Ask me about literally anything and i'll be happy to respond.
-- 📫 How to reach me: ([juliecj24@gmail.com])
+- 📫 How to reach me: juliecj24@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ I try to learn new words to improve my vocabulary everyday.
 -->
