@@ -6,19 +6,19 @@ I'm still growing and I hope to meet a lot of people to work and collaborate wit
 
 ### 🦾🛠 Skills
 ## Proficient
-Python
-JavaScript
-MongoDB/Mongoose
-Agile Methodology(Scrum and Design Sprint)
-RESTFUL APIs
-Node.js
-Express.js
+Python,
+JavaScript,
+MongoDB/Mongoose,
+Agile Methodology(Scrum and Design Sprint),
+RESTFUL APIs,
+Node.js,
+Express.js.
 
 ## Familiar
-Typescript
-Java
-SQL
-C++
+Typescript,
+Java,
+SQL,
+C++.
 
 
 - 🔭 I’m currently building and contributing on projects with some developers and designers. 
@@ -26,7 +26,7 @@ C++
 - 👯 I’m looking to collaborate on really awesome projects.
 - 🤔 I’m looking for help with contributing to RESTFUL API based applications.
 - 💬 Ask me about literally anything and i'll be happy to respond.
-- 📫 How to reach me: [juliecj24@gmail.com]
+- 📫 How to reach me: ([juliecj24@gmail.com])
 - 😄 Pronouns: She/Her
 - ⚡ I try to learn new words to improve my vocabulary everyday.
 -->
